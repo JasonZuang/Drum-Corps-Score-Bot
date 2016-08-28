@@ -1,0 +1,1154 @@
+
+<html><head><title>CompetitionSuite</title><script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"101385a2fceb1a87c9d089b40cbf4466",petok:"633c3677f859bc693b074a17bc811613406b9571-1472402736-1800",zone:"competitionsuite.com",rocket:"0",apps:{"abetterbrowser":{"ie":"11","opera":null,"chrome":null,"safari":null,"firefox":null}},sha2test:0}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=0489c402f5/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<style type='text/css'>@media screen {#screenOnlyArea{display:block;}}@media print {#screenOnlyArea{display:none;}}*{font-family:Arial;font-size:10px;white-space:nowrap;}td{vertical-align:top;}.scoreTable{width:100%;}.content{padding:2px;}.topBorder{border-top:solid 1px #000000;}.topBorderDouble{border-top:solid 2px #000000;}.bottomBorder{border-bottom:solid 1px #000000;}.bottomBorderDouble{border-bottom:solid 2px #000000;}.rightBorder{border-right:solid 1px #000000;}.rightBorderDouble{border-right:solid 2px #000000;}.header{text-align:center;}.score{text-align:center;padding-bottom:0px;}.rank{text-align:center;padding-top:0px;}.categoryTotal{background-color:#9A9A9A;vertical-align:top;}.captionTotal{background-color:#BABABA;vertical-align:top;}.subcaptionTotal{background-color:#DADADA;vertical-align:top;}.category-only{width:75px;border-bottom:solid 2px #000;vertical-align:bottom;}</style></head><body>
+<div id='screenOnlyArea' style='width: 600px; margin: 10px auto; border: solid 1px #FFD47F; background-color: #FFFFD4; padding: 3px; text-align: center;'>When printing, select LANDSCAPE and enable background colors for the best results.</div><div style='width: 800px; margin: auto; position: realtive;'>
+<table cellpadding='0' cellspacing='0' style='width: 100%;'>
+<tr>
+<td style='width: 135px; vertical-align: middle;'>
+<img src='https://s3.amazonaws.com/competitionsuite/logos/c63cf498-4322-4db3-9907-b7fa5837b8bf.png' alt='Logo' height='75' width='135'/>
+</td>
+<td style='text-align: center;'>
+<div style='text-align: center; font-weight: bold; font-size: 18px;'>DCI World Championships Finals</div>
+<div style='text-align: center; font-style: italic; font-size: 14px;'></div>
+<div style='text-align: center; font-style: italic; font-size: 12px;'>Saturday, August 13, 2016 - Indianapolis IN</div>
+</td>
+<td style='width: 135px;'><img src='https://s3.amazonaws.com/competitionsuite/logos/c63cf498-4322-4db3-9907-b7fa5837b8bf.png' alt='Logo' height='75' width='135'/>
+</td>
+</tr>
+</table>
+<div class='chiefJudge' style='text-align: right; margin-top: 2px; margin-right: 25px;'>Chief Judge: John Phillips</div></div>
+<table cellpadding='0' cellspacing='0' style='border-bottom: solid 1px #000; margin: 10px auto 0px auto;'>
+<tr><td style='text-align: center; padding: 2px; font-weight: bold; font-size: 14px;'>World Class</td></tr><tr><td><table cellpadding='0' cellspacing='0' style='background-color: #FFFFFF;'><tr>
+<td rowspan='4' class='content bottomBorderDouble rightBorderDouble' style='min-width: 100px; text-align: center; font-size: 18px; font-style: italic; font-weight: bold;'>&nbsp;</td><td colspan='15' class='content rightBorderDouble header categoryTotal'>General Effect</td>
+<td colspan='10' class='content rightBorderDouble header categoryTotal'>Visual</td>
+<td colspan='14' class='content rightBorderDouble header categoryTotal'>Music</td>
+<td rowspan='4' class='content rightBorderDouble bottomBorderDouble header' style='vertical-align: bottom; width: 35px;'>Sub<br/>Total</td>
+<td colspan='2' class='content rightBorderDouble header categoryTotal' style='background-color: #FFFFFF; border-right: 1px solid #000000;'>&nbsp;</td>
+<td rowspan='4' class='content bottomBorderDouble rightBorderDouble header' style='vertical-align: bottom;'>Total </td>
+</tr><tr><td colspan='7' class='content rightBorder topBorder header captionTotal'>General Effect 1</td>
+<td colspan='7' class='content rightBorder topBorder header captionTotal'>General Effect 2</td>
+<td class='content rightBorderDouble header categoryTotal'>&nbsp;</td>
+<td colspan='3' class='content rightBorder topBorder header captionTotal'>Visual Proficiency</td>
+<td colspan='3' class='content rightBorder topBorder header captionTotal'>Visual - Analysis</td>
+<td colspan='3' class='content rightBorder topBorder header captionTotal'>Color Guard</td>
+<td class='content rightBorderDouble header categoryTotal'>&nbsp;</td>
+<td colspan='3' class='content rightBorder topBorder header captionTotal'>Music - Brass</td>
+<td colspan='3' class='content rightBorder topBorder header captionTotal'>Music - Analysis</td>
+<td colspan='7' class='content rightBorder topBorder header captionTotal'>Music - Percussion</td>
+<td class='content rightBorderDouble header categoryTotal'>&nbsp;</td>
+<td colspan='2' class='content rightBorder topBorder header captionTotal'>Penalties</td>
+</tr><tr><td colspan='3' class='content topBorder rightBorder header subcaptionTotal'>L. Carlson</td>
+<td colspan='3' class='content topBorder rightBorder header subcaptionTotal'>J. Howell</td>
+<td class='content rightBorder header captionTotal'>&nbsp;</td>
+<td colspan='3' class='content topBorder rightBorder header subcaptionTotal'>C. Rothe</td>
+<td colspan='3' class='content topBorder rightBorder header subcaptionTotal'>J. Bell</td>
+<td class='content rightBorder header captionTotal'>&nbsp;</td>
+<td class='content rightBorderDouble header categoryTotal'>&nbsp;</td>
+<td colspan='3' class='content topBorder rightBorder header subcaptionTotal'>B. Mascaro</td>
+<td colspan='3' class='content topBorder rightBorder header subcaptionTotal'>F. Miller</td>
+<td colspan='3' class='content topBorder rightBorder header subcaptionTotal'>W. Chumley</td>
+<td class='content rightBorderDouble header categoryTotal'>&nbsp;</td>
+<td colspan='3' class='content topBorder rightBorder header subcaptionTotal'>W. Dillon</td>
+<td colspan='3' class='content topBorder rightBorder header subcaptionTotal'>G. Markham</td>
+<td colspan='3' class='content topBorder rightBorder header subcaptionTotal'>G. Howarth</td>
+<td colspan='3' class='content topBorder rightBorder header subcaptionTotal'>M. Leitzke</td>
+<td class='content rightBorder header captionTotal'>&nbsp;</td>
+<td class='content rightBorderDouble header categoryTotal'>&nbsp;</td>
+<td colspan='2' class='content topBorder rightBorder header subcaptionTotal'>T. DiCarlo</td>
+</tr><tr><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Rep</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Perf</td><td class='content rightBorder bottomBorderDouble header subcaptionTotal' style='min-width: 30px;'>Tot</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Rep</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Perf</td><td class='content rightBorder bottomBorderDouble header subcaptionTotal' style='min-width: 30px;'>Tot</td><td class='content rightBorder bottomBorderDouble header captionTotal' style='min-width: 30px;'>Tot</td>
+<td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Rep</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Perf</td><td class='content rightBorder bottomBorderDouble header subcaptionTotal' style='min-width: 30px;'>Tot</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Rep</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Perf</td><td class='content rightBorder bottomBorderDouble header subcaptionTotal' style='min-width: 30px;'>Tot</td><td class='content rightBorder bottomBorderDouble header captionTotal' style='min-width: 30px;'>Tot</td>
+<td class='content rightBorderDouble bottomBorderDouble header categoryTotal' style='min-width: 30px;'>Tot</td>
+<td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Cont</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Achv</td><td class='content rightBorder bottomBorderDouble header subcaptionTotal' style='min-width: 30px;'>Tot</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Comp</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Achv</td><td class='content rightBorder bottomBorderDouble header subcaptionTotal' style='min-width: 30px;'>Tot</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Sbst</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Achv</td><td class='content rightBorder bottomBorderDouble header subcaptionTotal' style='min-width: 30px;'>Tot</td><td class='content rightBorderDouble bottomBorderDouble header categoryTotal' style='min-width: 30px;'>Tot</td>
+<td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Cont</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Achv</td><td class='content rightBorder bottomBorderDouble header subcaptionTotal' style='min-width: 30px;'>Tot</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Cont</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Achv</td><td class='content rightBorder bottomBorderDouble header subcaptionTotal' style='min-width: 30px;'>Tot</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Cont</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Achv</td><td class='content rightBorder bottomBorderDouble header subcaptionTotal' style='min-width: 30px;'>Tot</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Cont</td><td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Achv</td><td class='content rightBorder bottomBorderDouble header subcaptionTotal' style='min-width: 30px;'>Tot</td><td class='content rightBorder bottomBorderDouble header captionTotal' style='min-width: 30px;'>Tot</td>
+<td class='content rightBorderDouble bottomBorderDouble header categoryTotal' style='min-width: 30px;'>Tot</td>
+<td class='content topBorder rightBorder bottomBorderDouble header' style='width: 30px;'>Pen</td><td class='content rightBorder bottomBorderDouble header subcaptionTotal' style='min-width: 30px;'>Tot</td></tr><tr>
+<td class='content topBorder rightBorderDouble'>Bluecoats</td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>99</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>99.5</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.85</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.50</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.675</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>99</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>99</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.80</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>99</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.70</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.75</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>39.425</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>99</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.50</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.50</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.40</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>29.20</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.40</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.40</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97.5</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.35</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94.5</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.15</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.25</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>29.025</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97.650</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0.00</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97.650</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+</tr>
+<tr>
+<td class='content topBorder rightBorderDouble'>Blue Devils</td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98.5</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>99</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.75</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.30</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.525</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.50</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.20</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.35</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>38.875</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.30</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>99</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.70</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>99</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>100</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.90</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>29.45</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96.5</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96.5</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.30</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>99</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.50</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.00</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.10</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.05</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>28.925</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97.250</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0.00</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97.250</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+</tr>
+<tr>
+<td class='content topBorder rightBorderDouble'>Carolina Crown</td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.40</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.40</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.40</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.40</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.50</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.45</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>38.85</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.40</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>99</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.60</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.60</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>29.30</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.60</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.60</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94.5</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.85</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93.5</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>91.5</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.50</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.675</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>28.938</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97.088</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0.00</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97.088</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+</tr>
+<tr>
+<td class='content topBorder rightBorderDouble'>Santa Clara Vanguard</td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95.5</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.05</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.00</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.025</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.10</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.90</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.00</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>38.025</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.00</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.90</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.10</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>28.50</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95.5</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.05</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.10</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96.5</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96.5</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.30</td></tr><tr><td class='content rank'>2</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>98</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>97</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.50</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.40</td></tr><tr><td class='content rank'>1</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>28.775</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95.300</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0.00</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95.300</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+</tr>
+<tr>
+<td class='content topBorder rightBorderDouble'>The Cavaliers</td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.80</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.60</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.70</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.90</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.70</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.80</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>37.50</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.60</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>96</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>19.20</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.80</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>28.30</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.90</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.70</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95.5</td></tr><tr><td class='content rank'>3</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.95</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94.5</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.75</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.85</td></tr><tr><td class='content rank'>4</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>28.225</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94.025</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0.00</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94.025</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+</tr>
+<tr>
+<td class='content topBorder rightBorderDouble'>The Cadets</td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.50</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>91</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.40</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.45</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.60</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.30</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.45</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>36.90</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.70</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.70</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>91.5</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90.5</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.20</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>27.80</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.60</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>95</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.90</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93.5</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.65</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>94</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.60</td></tr><tr><td class='content rank'>5</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.625</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>28.063</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92.763</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0.00</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92.763</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+</tr>
+<tr>
+<td class='content topBorder rightBorderDouble'>Blue Knights</td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>91</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>91.5</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.25</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>91</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.10</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.175</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.40</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>91</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>91</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.20</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.30</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>36.475</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>85</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.30</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>91</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.00</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.40</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>26.85</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>91</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.40</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.50</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>91</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90.5</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.15</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.70</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.925</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>27.413</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90.738</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0.00</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90.738</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+</tr>
+<tr>
+<td class='content topBorder rightBorderDouble'>Phantom Regiment</td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.00</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.20</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.10</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>91</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.10</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.70</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.90</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>36.00</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>87</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>87</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.40</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.10</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>91</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.90</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>26.70</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.00</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>91</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.30</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92.5</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92.5</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.50</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89.5</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.95</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.225</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>27.263</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89.963</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0.00</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89.963</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+</tr>
+<tr>
+<td class='content topBorder rightBorderDouble'>Blue Stars</td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.70</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.70</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.70</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.80</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>87</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>87</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.40</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.60</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>35.30</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.70</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.60</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>93</td></tr><tr><td class='content rank'>6</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.30</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>26.80</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.70</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>91</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.10</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>92</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>91</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.30</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.90</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>18.10</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>26.95</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89.050</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0.00</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89.050</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+</tr>
+<tr>
+<td class='content topBorder rightBorderDouble'>Crossmen</td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86.5</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>85.5</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.20</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>84</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.00</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.10</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>87</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.30</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.20</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.25</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>34.35</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90</td></tr><tr><td class='content rank'>7</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.60</td></tr><tr><td class='content rank'>8</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>87</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.30</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89</td></tr><tr><td class='content rank'>9</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.70</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>26.30</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>87</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.50</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>90</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.90</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>85</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>85</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.00</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>87</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.50</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.25</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>26.325</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86.975</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0.00</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86.975</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+</tr>
+<tr>
+<td class='content topBorder rightBorderDouble'>The Academy</td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.40</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>85</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>87</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.20</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.30</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.60</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>85</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>84</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>16.90</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.25</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>34.55</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>84</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>82</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>16.60</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>85</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>87</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.20</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>87</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>84</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.10</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>25.45</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>87</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>85</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.20</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>89</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.70</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.40</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.20</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.30</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>26.10</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86.100</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0.00</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86.100</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+</tr>
+<tr>
+<td class='content topBorder rightBorderDouble'>Boston Crusaders</td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>85</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.10</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>84</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>83</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>16.70</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>16.90</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>85</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>84</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>16.90</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>82</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>85</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>16.70</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>16.80</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>33.70</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>83</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>16.90</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>84</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.00</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>85</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>85</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.00</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>25.45</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>85</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>83</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>16.80</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>88</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.40</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>86</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>87</td></tr><tr><td class='content rank'>10</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.30</td></tr><tr><td class='content rank'>11</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>85</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>84</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>16.90</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorderDouble captionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>17.10</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorderDouble categoryTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>25.65</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>84.800</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+<td class='topBorder rightBorder' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorder subcaptionTotal' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>0.00</td></tr><tr><td class='content rank'></td></tr></table></td>
+<td class='topBorder rightBorderDouble' style='width: 30px;'>
+<table class='scoreTable' cellpadding='0' cellspacing='0'><tr><td class='content score'>84.800</td></tr><tr><td class='content rank'>12</td></tr></table></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div style='width: 400px; margin: 0px auto 10px auto; text-align: center; font-style: italic;'>* Total reflects factored subcaptions</div>
+<div style='width: 300px; margin: auto; text-align: center;'>
+<img src='https://competitionsuite.com/core/img/PoweredByLogo.png' alt='CompetitionSuite' style='margin: auto;'/></div>
+<script type='text/javascript'>
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-19850205-4']);
+_gaq.push(['_trackPageview']);
+(function () {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>
